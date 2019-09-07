@@ -1,0 +1,21 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("babe.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 4em;
+)
